@@ -1,5 +1,7 @@
 # 🌤️ WeatherNexus
 
+**[▶ Live demo](https://weather-app-self-projects4.vercel.app)**
+
 > A beautiful, feature-rich weather application with multiple themes and real-time weather data.
 
 ## ✨ Features
@@ -92,3 +94,8 @@ Free to use and modify. Weather data provided by WeatherAPI.com.
 ---
 
 **Enjoy accurate weather forecasts in style!** ☀️🌧️❄️
+
+## Author
+
+Built by **[Kartikeya Yadav](https://github.com/kartikeyajay2006)**.
+[LinkedIn](https://www.linkedin.com/in/kartikeya2006/) · [Portfolio](https://kartikeya-portfolio-rx7w.vercel.app/)
